@@ -1,3 +1,4 @@
+# TODO : 유클리드 호제법으로 다시 풀어보기
 from collections import deque
 a, b = map(int, input().split())
 if max(a,b) % min(a,b) == 0:
