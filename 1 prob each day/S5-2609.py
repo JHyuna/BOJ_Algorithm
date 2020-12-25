@@ -14,7 +14,3 @@ else:
     M = max(ans)
     print(M)
     print(int(M*(a/M)*(b/M)))
-
-
-
-
