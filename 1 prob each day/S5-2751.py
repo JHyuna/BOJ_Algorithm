@@ -1,4 +1,4 @@
-# 시간초과 뜬다 풀이 고쳐야겠다.
+# TODO : 시간초과 뜬다 풀이 고쳐야겠다.
 from collections import deque
 n,a = int(input()), int(input())
 ans = deque([a])
