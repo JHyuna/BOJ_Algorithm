@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23bbba6a-5c8d-42a7-b41a-578b3be7b7ac" name="Default Changelist" comment="2751">
-      <change beforePath="$PROJECT_DIR$/1 prob each day/S5-2609.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 prob each day/S5-2609.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 prob each day/S5-2751.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 prob each day/S5-2751.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/secondDashboard" />
   </component>
   <component name="RunManager">
     <configuration name="S5-2751" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -114,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608922049578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2751">
+      <created>1608922108251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608922108251</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2751">
+      <created>1608923520893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608923520893</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,25 +149,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="2751" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="601" y="209" key="FileChooserDialogImpl" timestamp="1608861410023">
+    <state x="601" y="209" key="FileChooserDialogImpl" timestamp="1608930945869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="601" y="209" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608861410023" />
-    <state width="1080" height="210" key="GridCell.Tab.0.bottom" timestamp="1608922050804">
+    <state x="601" y="209" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608930945869" />
+    <state width="1080" height="210" key="GridCell.Tab.0.bottom" timestamp="1608932525447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1080" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608922050804" />
-    <state width="1080" height="210" key="GridCell.Tab.0.center" timestamp="1608922050804">
+    <state width="1080" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608932525447" />
+    <state width="1080" height="210" key="GridCell.Tab.0.center" timestamp="1608932525447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1080" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608922050804" />
-    <state width="1080" height="210" key="GridCell.Tab.0.left" timestamp="1608922050804">
+    <state width="1080" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608932525447" />
+    <state width="1080" height="210" key="GridCell.Tab.0.left" timestamp="1608932525447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1080" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608922050804" />
-    <state width="1080" height="210" key="GridCell.Tab.0.right" timestamp="1608922050804">
+    <state width="1080" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608932525447" />
+    <state width="1080" height="210" key="GridCell.Tab.0.right" timestamp="1608932525447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1080" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608922050804" />
+    <state width="1080" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608932525447" />
   </component>
 </project>
