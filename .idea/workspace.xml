@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23bbba6a-5c8d-42a7-b41a-578b3be7b7ac" name="Default Changelist" comment="1427" />
+    <list default="true" id="23bbba6a-5c8d-42a7-b41a-578b3be7b7ac" name="Default Changelist" comment="1427">
+      <change afterPath="$PROJECT_DIR$/1 prob each day/S5-1934.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
