@@ -1,5 +1,4 @@
 import sys
-
 n = int(input())
 dctn = {}
 L = sorted(set(list(sys.stdin.readline().strip() for _ in range(n) )))
