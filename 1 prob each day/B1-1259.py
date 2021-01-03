@@ -4,7 +4,7 @@ while True:
         if word == word[::-1]:
             print('yes')
         else:
-            print('No')
+            print('no')
     else:
         break
     
