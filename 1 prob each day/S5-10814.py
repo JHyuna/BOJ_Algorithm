@@ -1,3 +1,4 @@
+# python list sorted의 key parameter
 import sys
 n = int(input())
 L = [tuple(sys.stdin.readline().split()) for _ in range(n)]
