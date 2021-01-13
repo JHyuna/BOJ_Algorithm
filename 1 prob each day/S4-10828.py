@@ -39,6 +39,3 @@ for _ in range(n):
         print(empty(stk))
     else:
         print(top(stk))
-
-        
-
