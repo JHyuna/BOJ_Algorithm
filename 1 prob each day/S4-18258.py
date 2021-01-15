@@ -1,7 +1,7 @@
 import sys
 from collections import deque
 
-# 10845번처럼 list로 구현 시 시간초과, deque로 시간 단축 필요
+# 10845번처럼 list로 풀면 시간초과, deque 사용 필요
 
 def size(queue):
     return len(queue)
